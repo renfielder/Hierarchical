@@ -1,5 +1,8 @@
 Visit https://renfielder.github.io/Hierarchical/index.html
+
 The scene may take a bit to load, there are several large files being rendered. The wireframe will slow it down.
+
+This was for Intro to Computer Graphics CS 373 at UMass Amherst. If any future students are looking at this: please don't copy it, it's bad, you can do better
 
 The levels of hierachy are first there is group called "head" which contains my head and halo.
 Then there is"abtHead" my scan is the parent of that group with the planets being children.
