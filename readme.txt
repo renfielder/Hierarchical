@@ -1,3 +1,4 @@
+Visit https://renfielder.github.io/Hierarchical/index.html
 The scene may take a bit to load, there are several large files being rendered. The wireframe will slow it down.
 
 The levels of hierachy are first there is group called "head" which contains my head and halo.
@@ -16,3 +17,4 @@ halo: me
 Satellite: https://www.thingiverse.com/thing:1666770/files
 image textures: https://github.com/lvapeab/miarfid-solar-system/blob/master/solar-system.js
 
+Update 8/11/2020 : uploaded to github
